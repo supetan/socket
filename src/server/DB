@@ -1,0 +1,12 @@
+home.flash.com 4 192.168.2.1 
+lab.flash.com 4 1.1.1.2 
+office.flash.com 4 192.168.2.3 
+class.flash.com 4 192.168.2.4 
+aalto.flash.com 4 192.168.2.5 
+elec.flash.com 4 10.1.1.2 
+comsci.flash.com 4 10.1.1.4 
+rohan.flash.com 4 10.1.1.6
+karthika.flash.com 4 10.1.1.8 
+bijay.flash.com 4 10.1.1.9 
+tan.flash.com 4 10.1.1.10  
+END
